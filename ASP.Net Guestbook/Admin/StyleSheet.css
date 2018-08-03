@@ -1,0 +1,49 @@
+﻿body { margin: 0; font-family: Calibri, Arial, Verdana; font-size: 14px;}
+
+a { color: #000; }
+
+#Header { border-bottom: solid 1px #000; }
+
+#Content { border-left: solid 1px #000; padding-left: 25px; padding-right: 25px;}
+
+#Footer { border-top: solid 1px #000;}
+
+#Navigation { padding-right: 25px; }
+
+.HeaderText { font-size: 18px; }
+
+.GridHeader
+{
+    font-weight: bold;
+    background-color: #a9a9a9;
+}
+
+.GridAlternatingRow
+{
+    background-color: #f8f8ff;
+}
+
+.PreviewButton
+{
+    border: black 1px solid;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background-color: #dcdcdc;
+}
+
+.PopUps
+{
+    background-color: #ffffe0;
+}
+
+.ErrorMessage
+{
+    color: #ff0000;
+}
+
+.SuccessMessage
+{
+    color: #008000;
+}

@@ -1,0 +1,91 @@
+﻿/*  
+    This style sheet was developed by Jason Nowicki for The Professional Developer
+    This file provides styling for look and feel of the site. For more information
+    on how to use CSS Stylesheets please visit: http://www.w3schools.com/css/default.asp
+*/
+
+body /* The look and feel of the web site */
+{
+    font-family: Verdana, Arial;    /* The font to display */
+    font-size: 12px;                /* The Size of the text */
+    color: #000000;                 /* The color of your text */           
+    margin: 0 auto;                 /* The space between the edge of the browser and your site */
+    width: 750px;
+    background-color: #d3d3d3;      /* The background color of the site */   
+}
+
+HR  /* The look and feel of the horizontal bars on your site */
+{
+    color: #d3d3d3;                 /* The color of your horizontal bars */
+}
+
+#Header
+{
+    text-align: center;
+    margin: 10px;
+}
+
+#Footer
+{
+    text-align: center;
+    margin: 10px;
+}
+
+#Content /* The look and feel of the area behind your guestbook and sign book pages */
+{
+    margin: 0 auto;                 /* The space between the edge of the background and the guestbook */
+    background-color: #fff;         /* This changes the background color */
+    padding-top: 10px;              /* This adds some padding to the top of the area */
+    padding-bottom: 10px;           /* This adds some padding to the bottom of the area */
+}
+
+FieldSet /* The look and feel of the box that surrounds the content on your site */
+{
+    border: #d3d3d3 4px solid;      /* Color and width of the right side of the box */
+    padding: 5px;                   /* How much padding to use on the Top of the box */
+    width: 90%;
+    margin: 0 auto;
+}
+
+.GuestBookList  /* Fomatting applied to the Grid on the homepage */
+{
+    width: 600px;                    /* Width of the Guestbook grid on the home page */
+}
+
+.GridHeader
+{
+    background-color: #d3d3d3;
+}
+
+.GridAlternatingRow /* The background color of the body Lines */
+{
+    background-color: #f3f3f3;      /* The color of the background */
+}
+
+.HeaderText  /* The look and feel of the Text at the top of the pages */
+{
+    color: #315684;                 /* Color of the text */
+    font-family: Tahoma;            /* Font of the text */
+    font-size: 22px;                /* Size of the text */
+}
+
+.ErrorMessage /* The color of the Error messages that are display on the site */
+{
+    color: #ff0000;                 /* Color of the text */
+}
+
+.SuccessMessage /* The color of the Success messages that are display on the site */
+{
+    color: #808000;                 /* Color of the text */
+}
+
+.PreviewButton /* The look and feel of the buttons on the site */
+{
+    border: #000 1px solid;         /* Border color and width */
+    padding-left: 5px;              /* Padding around the text */
+    padding-bottom: 1px;            /* Padding around the text */
+    padding-right: 5px;             /* Padding around the text */
+    padding-top: 1px;               /* Padding around the text */
+    background-color: #d3d3d3;      /* Background Color of the button */
+    color: #000;                    /* Color of the text on the button */
+}

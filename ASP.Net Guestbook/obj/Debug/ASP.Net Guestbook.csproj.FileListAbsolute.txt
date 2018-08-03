@@ -1,0 +1,58 @@
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\ASP.Net Guestbook.dll.config
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\ASP.Net Guestbook.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\ASP.Net Guestbook.pdb
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csc.exe
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csc.exe.config
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csc.rsp
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csi.exe
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csi.exe.config
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\csi.rsp
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.AppContext.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Console.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Diagnostics.Process.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.IO.Compression.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.IO.Pipes.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.AccessControl.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Claims.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Threading.Thread.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.ValueTuple.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Xml.XPath.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\vbc.exe
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\vbc.exe.config
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\vbc.rsp
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\VBCSCompiler.exe
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\obj\Debug\ASP.Net Guestbook.csproj.CoreCompileInputs.cache
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\obj\Debug\ASP.Net Guestbook.csproj.CopyComplete
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\obj\Debug\ASP.Net Guestbook.dll
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\obj\Debug\ASP.Net Guestbook.pdb
+C:\Source\ASP.Net Guestbook\ASP.Net Guestbook\obj\Debug\ASP.Net Guestbook.csprojAssemblyReference.cache

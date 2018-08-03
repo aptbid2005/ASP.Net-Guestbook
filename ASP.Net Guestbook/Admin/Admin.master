@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" Inherits="Admin_Admin" Codebehind="Admin.master.cs" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Site Administration</title>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table border="0" cellpadding="5" cellspacing="0" style="width: 100%">
+            <tr>
+                <td colspan="2" id="Header">
+                    <table style="width: 100%">
+                        <tr>
+                            <td>
+                                <h2>
+                                    Guestbook Software</h2>
+                            </td>
+                            <td align="right">
+                                <asp:LinkButton runat="server" ID="btnLogout" Text="Logout" />
+                                <br />
+                                <% =Date.Now.ToLongDateString%>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" id="Navigation">
+                    <asp:TreeView ID="TreeView1" runat="server" ImageSet="Arrows">
+                        <ParentNodeStyle Font-Bold="False" />
+                        <HoverNodeStyle Font-Underline="True" ForeColor="#5555DD" />
+                        <SelectedNodeStyle Font-Underline="True" ForeColor="#5555DD" HorizontalPadding="0px"
+                            VerticalPadding="0px" />
+                        <Nodes>
+                            <asp:TreeNode Text="Admin Home" Value="Admin Home">
+                                <asp:TreeNode NavigateUrl="~/Admin/Posts.aspx" Text="Posts" Value="Posts"></asp:TreeNode>
+                                <asp:TreeNode Text="Site Filters" Value="Site Filters">
+                                    <asp:TreeNode NavigateUrl="~/Admin/BadLanguageEditor.aspx" Text="Bad Language" Value="Bad Language">
+                                    </asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/Admin/IPFilter.aspx" Text="IP Address" Value="IP Address">
+                                    </asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode NavigateUrl="~/Admin/UserManagement.aspx" Text="User Management" Value="User Management">
+                                </asp:TreeNode>
+                                <asp:TreeNode Text="Settings" Value="Settings">
+                                    <asp:TreeNode NavigateUrl="~/Admin/FormsSetup.aspx" Text="Form Setup" Value="Form Setup">
+                                    </asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/Admin/HeaderAndFooter.aspx" Text="Header &amp; Footer"
+                                        Value="Header &amp; Footer"></asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/Admin/LanguageFile.aspx" Text="Language File" Value="Language File">
+                                    </asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/Admin/SiteSetup.aspx" Text="Site Setup" Value="Site Setup">
+                                    </asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/Admin/Analytics.aspx" Text="Visitor Tracking" Value="Visitor Tracking">
+                                    </asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode NavigateUrl="~/Admin/LookAndFeel.aspx" Text="Look &amp; Feel" Value="Look &amp; Feel">
+                                </asp:TreeNode>
+                            </asp:TreeNode>
+                            <asp:TreeNode NavigateUrl="~/GuestBook.aspx" Text="Back to Guestbook" Value="Back to Guestbook">
+                            </asp:TreeNode>
+                        </Nodes>
+                        <NodeStyle HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+                    </asp:TreeView>
+                </td>
+                <td style="width: 100%" valign="top" id="Content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" id="Footer" align="right">
+                    Created by: <a href="http://www.theprodev.com" target="_blank">The Professional Developer</a> &copy;
+                    <% =now.Year %>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
